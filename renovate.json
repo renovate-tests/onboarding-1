@@ -1,6 +1,8 @@
 {
   "enabled": true,
-  "timezone": null,
+  "groupName": "all",
+  "prCreation": "not-pending",
+  "timezone": "Etc/UTC",
   "schedule": [],
   "packageFiles": [],
   "depTypes": [
@@ -9,16 +11,16 @@
     "optionalDependencies"
   ],
   "ignoreDeps": [],
-  "pinVersions": true,
+  "pinVersions": false,
   "separateMajorReleases": true,
   "semanticCommits": false,
   "semanticPrefix": "chore: ",
   "rebaseStalePrs": false,
-  "prCreation": "immediate",
   "automerge": "none",
   "branchName": "renovate/{{depName}}-{{newVersionMajor}}.x",
   "commitMessage": "{{semanticPrefix}}Update dependency {{depName}} to version {{newVersion}}",
   "labels": [],
   "assignees": [],
-  "reviewers": []
+  "reviewers": [],
+  "baseBranch": "next"
 }
