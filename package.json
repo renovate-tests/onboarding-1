@@ -1,6 +1,5 @@
 {
   "name": "renovate-tests-onboarding-1",
-  "private": true,
   "version": "1.2.0",
   "description": "A frontend Framework for building admin applications on top of REST services, using ES6, React and Material UI",
   "files": [
