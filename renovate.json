@@ -1,4 +1,5 @@
 {
+  "foo": 1,
   "pinVersions": true,
   "depTypes": [{"depType": "dependencies", "pinVersions": false}],
   "ignoreNodeModules": true
