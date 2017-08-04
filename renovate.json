@@ -1,0 +1,5 @@
+{
+  "pinVersions": true,
+  "dependencies": {"pinVersions": false},
+  "ignoreNodeModules": true
+}
