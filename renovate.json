@@ -1,5 +1,4 @@
 {
   "extends": ["library"],
-  "description": ["Assign issues to @rarkins"],
   "assignees": ["rarkins"]
 }
