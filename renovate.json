@@ -1,4 +1,5 @@
 {
   "extends": ["library"],
-  "assignees": ["rarkins"]
+  "assignees": ["rarkins"],
+  "labels": ["renovate"]
 }
