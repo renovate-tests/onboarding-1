@@ -2,5 +2,5 @@
   "extends": ["library"],
   "assignees": ["rarkins"],
   "labels": ["renovate"],
-  "schedule": ["Before 5am"]
+  "schedule": ["every 5 minutes"]
 }
