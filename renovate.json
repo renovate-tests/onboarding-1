@@ -1,0 +1,6 @@
+{
+  "extends": [":library", ":group(packages/eslint, eslint)", ":doNotPinPackage(semantic-release)"],
+  "assignees": ["rarkins"],
+  "labels": 5,
+  "schedule": ["every 5 minutes"]
+}
