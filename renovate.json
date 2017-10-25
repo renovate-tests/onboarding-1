@@ -1,8 +1,5 @@
 {
   "extends": [
     "config:js-lib"
-  ],
-  "docker": {
-    "enabled": false
-  }
+  ]
 }
