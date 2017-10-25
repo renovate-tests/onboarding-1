@@ -3,6 +3,6 @@
     "config:js-lib"
   ],
   "docker": {
-    "enabled: true
+    "enabled": true
   }
 }
