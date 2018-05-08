@@ -21,7 +21,7 @@
   "bugs": "https://github.com/marmelab/admin-on-rest/issues",
   "license": "MIT",
   "devDependencies": {
-    "babel-cli": "~6.24.1",
+    "babel-cli": "~6.26.0",
     "babel-core": "~6.24.1",
     "apololographql-apollo-client": "1.0.4",
     "babel-eslint": "~7.2.1",
